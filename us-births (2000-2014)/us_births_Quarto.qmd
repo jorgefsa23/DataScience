@@ -1,42 +1,14 @@
 ---
-title: "Repor of US Births (2000-2014) in R Marckdown"
+title: "Repor of US Births (2000-2014) in Quarto"
 author: "Jorge Escobar _ jorge.fsa23@gmail.com"
-date: "First created on: Nov 28, 2022. Last compiled: `r format(Sys.time(), '%b %d, %Y %H:%M:%S')`"
-output:
-  html_document:
-      highlight: zenburn
-      theme: readable
-      toc: yes
-      toc_float:
-         collapsed: yes
-         smooth_scroll: yes 
+date: "`r format(Sys.time(), '%b %d, %Y %H:%M:%S')`"
+format: 
+    html:
+        toc: true
+        toc-title: Summary
+        number-sections: true
+editor: visual
 ---
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
-<!-- Personalizing CSS style -->
-```{css, echo = FALSE}
-
-p{
-  text-align: justify;
-  color: #696969
-  }
-
-h1{
-  background-color: #f2e392;
-  text-align: center;
-  color: #5d0e16
-}
-
-h2,h3,h4,h5{
-  background-color: #f1f5ad;
-  text-align: left;
-  color: #0000ff
-}
-
-```
 
 ## Introduction
 
@@ -57,7 +29,8 @@ day_of_week          | Day of week, where 1 is Monday and 7 is Sunday
 births               | Number of births (of each day)
 
 
->On the next sections, the results of basic data analysis with R and a line-graph constructed with the package `ggplot`. Finally, a test of the hypothesis on incidence of Friday the 13 into number of births.
+> On the next sections, the results of basic data analysis with R and a line-graph constructed with the package `ggplot`. Finally, a test of the hypothesis on incidence of Friday the 13 into number of births.
+
 	
 ## Preparing environment
  
