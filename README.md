@@ -1,2 +1,2 @@
 # DataScience
-Data Science projects in Python and R language
+Repository of Data Science projects in Python and R language
