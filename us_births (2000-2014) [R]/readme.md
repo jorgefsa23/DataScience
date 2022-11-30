@@ -14,4 +14,4 @@ Resulting FILES                      | Description
  <kbd>us_births_Quarto.qmd</kbd>     | **Quatro** file (.qmd)
 <kbd>us_births_Quarto.html</kbd>     | Output of Quatro in HTML
 
-Both reports are the same in structure. Their differences are only in basic personalization characteristics between **R Marckdown** and **Quatro**
+Both reports are the same in structure. Their differences are only in basic optiona of personalization (style) between **R Marckdown** and **Quatro**
