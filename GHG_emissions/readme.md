@@ -6,3 +6,9 @@ The Report was developed by data available in  [GHG_Emissions](https://www.clima
 
 Source: Climate Watch Historical GHG Emissions. 2022.
 Washington, DC: World Resources Institute.
+
+
+Resulting FILES                      | Description
+-----------------------------------  | ------------------------
+<kbd>hist_emiss_RMarckdown.Rmd</kbd>  | **R Marckdown** file (.Rmd)
+<kbd>hist_emiss_RMarckdown.html</kbd> | Output of R Marckdown in HTML
