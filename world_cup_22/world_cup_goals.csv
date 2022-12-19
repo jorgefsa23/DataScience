@@ -1,0 +1,205 @@
+﻿Weekday;Date;Game;Stage;Match;Goal;Country;Player;Minute;Goal_origin;Player_team;League;Player_Age
+Sunday;20/11/2022;Game 1;Group A;Qatar 0-2 Ecuador;1;Ecuador;E. Valencia;16;Penalty kick;Fenerbahce;Super Lig (Turkey);33
+Sunday;20/11/2022;Game 1;Group A;Qatar 0-2 Ecuador;2;Ecuador;E. Valencia;31;Assistance;Fenerbahce;Super Lig (Turkey);33
+Monday;21/11/2022;Game 2;Group B;England 6-2 Iran;3;England;J. Bellingham;35;Assistance;B. Dortmund;Bundesliga (Germany);19
+Monday;21/11/2022;Game 2;Group B;England 6-2 Iran;4;England;B. Saka;43;Assistance;Arsenal;Premier League (England);21
+Monday;21/11/2022;Game 2;Group B;England 6-2 Iran;5;England;R. Sterling;45;Assistance;Chelsea;Premier League (England);28
+Monday;21/11/2022;Game 2;Group B;England 6-2 Iran;6;England;B. Saka;62;Assistance;Arsenal;Premier League (England);21
+Monday;21/11/2022;Game 2;Group B;England 6-2 Iran;7;Iran;M. Taremi;65;Assistance;FC Porto;Liga Portugal (Portugal);30
+Monday;21/11/2022;Game 2;Group B;England 6-2 Iran;8;England;M. Rashford;71;Assistance;Manchester Utd;Premier League (England);25
+Monday;21/11/2022;Game 2;Group B;England 6-2 Iran;9;England;J. Grealish;90;Assistance;Manchester City;Premier League (England);27
+Monday;21/11/2022;Game 2;Group B;England 6-2 Iran;10;Iran;M. Taremi;103;Penalty kick;FC Porto;Liga Portugal (Portugal);30
+Monday;21/11/2022;Game 3;Group A;Senegal 0-2 Netherlands;11;Netherlands;C. Gakpo;84;Assistance;PSV;Eredivisie (Netherlands);23
+Monday;21/11/2022;Game 3;Group A;Senegal 0-2 Netherlands;12;Netherlands;D. Klaassen;99;Unassisted;Ajax;Eredivisie (Netherlands);29
+Monday;21/11/2022;Game 4;Group B;USA 1-1 Wales;13;USA;T. Weah;36;Assistance;Lille;Ligue 1 (France);22
+Monday;21/11/2022;Game 4;Group B;USA 1-1 Wales;14;Wales;G. Bale;82;Penalty kick;Los Angeles FC;MLS (USA);33
+Tuesday;22/11/2022;Game 5;Group C;Argentina 1-2 Saudi Arabia;15;Argentina;L. Messi;10;Penalty kick;PSG;Ligue 1 (France);35
+Tuesday;22/11/2022;Game 5;Group C;Argentina 1-2 Saudi Arabia;16;Saudi Arabia;Saleh Al Shehri;48;Assistance;Al-Hilal;Saudi Professional League (SA);29
+Tuesday;22/11/2022;Game 5;Group C;Argentina 1-2 Saudi Arabia;17;Saudi Arabia;S. Aldawsari;53;Unassisted;Al-Hilal;Saudi Professional League (SA);31
+Tuesday;22/11/2022;Game 6;Group D;Denmark 0-0 Tunisia;NA;NA;NA;NA;NA;NA;NA;NA
+Tuesday;22/11/2022;Game 7;Group C;Mexico 0-0 Poland;NA;NA;NA;NA;NA;NA;NA;NA
+Tuesday;22/11/2022;Game 8;Group D;France 4-1 Australia;18;Australia;C. Goodwin;9;Assistance;Adelaide Utd;A-League (Australia);30
+Tuesday;22/11/2022;Game 8;Group D;France 4-1 Australia;19;France;A. Rabiot;27;Assistance;Juventus;Serie A (Italy);27
+Tuesday;22/11/2022;Game 8;Group D;France 4-1 Australia;20;France;O. Giroud;32;Assistance;AC Milan;Serie A (Italy);36
+Tuesday;22/11/2022;Game 8;Group D;France 4-1 Australia;21;France;K. Mbappé;68;Assistance;PSG;Ligue 1 (France);23
+Tuesday;22/11/2022;Game 8;Group D;France 4-1 Australia;22;France;O. Giroud;71;Assistance;AC Milan;Serie A (Italy);36
+Wednesday;23/11/2022;Game 9;Group F;Morocco 0-0 Croatia;NA;NA;NA;NA;NA;NA;NA;NA
+Wednesday;23/11/2022;Game 10;Group E;Germany 1-2 Japan;23;Germany;I. Gundogan;33;Penalty kick;Manchester City;Premier League (England);32
+Wednesday;23/11/2022;Game 10;Group E;Germany 1-2 Japan;24;Japan;R. Doan;75;Unassisted;Freiburg;Bundesliga (Germany);24
+Wednesday;23/11/2022;Game 10;Group E;Germany 1-2 Japan;25;Japan;T. Asano;83;Assistance;Bochum;Bundesliga (Germany);28
+Wednesday;23/11/2022;Game 11;Group E;Spain 7-0 Costa Rica;26;Spain;D. Olmo;11;Unassisted;RB Leipzig;Bundesliga (Germany);24
+Wednesday;23/11/2022;Game 11;Group E;Spain 7-0 Costa Rica;27;Spain;Asensio;21;Assistance;Real Madrid;La Liga (Spain);26
+Wednesday;23/11/2022;Game 11;Group E;Spain 7-0 Costa Rica;28;Spain;F. Torres;31;Penalty kick;Barcelona;La Liga (Spain);22
+Wednesday;23/11/2022;Game 11;Group E;Spain 7-0 Costa Rica;29;Spain;F. Torres;54;Unassisted;Barcelona;La Liga (Spain);22
+Wednesday;23/11/2022;Game 11;Group E;Spain 7-0 Costa Rica;30;Spain;Gavi;74;Assistance;Barcelona;La Liga (Spain);18
+Wednesday;23/11/2022;Game 11;Group E;Spain 7-0 Costa Rica;31;Spain;C. Soler;90;Unassisted;PSG;Ligue 1 (France);25
+Wednesday;23/11/2022;Game 11;Group E;Spain 7-0 Costa Rica;32;Spain;A. Morata;92;Assistance;Atl. Madrid;La Liga (Spain);30
+Wednesday;23/11/2022;Game 12;Group F;Belgium 1-0 Canada;33;Belgium;M. Batshuayi;44;Assistance;Fenerbahce;Super Lig (Turkey);29
+Thursday;24/12/2022;Game 13;Group G;Switzerland 1-0 Cameroon;34;Switzerland;B. Embolo;48;Assistance;Monaco;Ligue 1 (France);25
+Thursday;24/12/2022;Game 14;Group H;Uruguay 0-0 South Korea;NA;NA;NA;NA;NA;NA;NA;NA
+Thursday;24/12/2022;Game 15;Group H;Portugal 3-2 Ghana;35;Portugal;C. Ronaldo;65;Penalty kick;No Team;No Team;37
+Thursday;24/12/2022;Game 15;Group H;Portugal 3-2 Ghana;36;Ghana;A. Ayew;73;Unassisted;Al-Sadd;QSL (Qatar);32
+Thursday;24/12/2022;Game 15;Group H;Portugal 3-2 Ghana;37;Portugal;João Félix;78;Assistance;Atl. Madrid;La Liga (Spain);23
+Thursday;24/12/2022;Game 15;Group H;Portugal 3-2 Ghana;38;Portugal;R. Leão;80;Assistance;AC Milan;Serie A (Italy);23
+Thursday;24/12/2022;Game 15;Group H;Portugal 3-2 Ghana;39;Ghana;O. Bukari;89;Unassisted;Crvena zvezda;Super Liga (Serbia);24
+Thursday;24/12/2022;Game 16;Group G;Brazil 2-0 Serbia;40;Brazil;Richarlison;62;Unassisted;Tottenham;Premier League (England);25
+Thursday;24/12/2022;Game 16;Group G;Brazil 2-0 Serbia;41;Brazil;Richarlison;73;Assistance;Tottenham;Premier League (England);25
+Friday;25/11/2022;Game 17;Group B;Wales 0-2 Iran;42;Iran;R. Cheshmi;98;Unassisted;Esteghlal F.C.;Persian Gulf Pro League (Iran);29
+Friday;25/11/2022;Game 17;Group B;Wales 0-2 Iran;43;Iran;R. Rezaeian;101;Assistance;Sepahan;Persian Gulf Pro League (Iran);32
+Friday;25/11/2022;Game 18;Group A;Qatar 1-3 Senegal;44;Senegal;B. Dia;41;Unassisted;Salernitana;Serie A (Italy);26
+Friday;25/11/2022;Game 18;Group A;Qatar 1-3 Senegal;45;Senegal;F. Diedhiou;48;Assistance;Alanyaspor;Super Lig (Turkey);29
+Friday;25/11/2022;Game 18;Group A;Qatar 1-3 Senegal;46;Qatar;M. Muntari;78;Assistance;Al-Duhail;QSL (Qatar);28
+Friday;25/11/2022;Game 18;Group A;Qatar 1-3 Senegal;47;Senegal;B. Dieng;84;Assistance;Marseille;Ligue 1 (France);22
+Friday;25/11/2022;Game 19;Group A;Netherlands 1-1 Ecuador;48;Netherlands;C. Gakpo;6;Assistance;PSV;Eredivisie (Netherlands);23
+Friday;25/11/2022;Game 19;Group A;Netherlands 1-1 Ecuador;49;Ecuador;E. Valencia;49;Unassisted;Fenerbahce;Super Lig (Turkey);33
+Friday;25/11/2022;Game 20;Group B;England 0-0 USA;NA;NA;NA;NA;NA;NA;NA;NA
+Saturday;26/11/2022;Game 21;Group D;Tunisia 0-1 Australia;50;Australia;M. Duke;23;Unassisted;Okayama;J2 League (Japan);31
+Saturday;26/11/2022;Game 22;Group C;Poland 2-0 Saudi Arabia;51;Poland;P. Zielinski;39;Assistance;Napoli;Serie A (Italy);28
+Saturday;26/11/2022;Game 22;Group C;Poland 2-0 Saudi Arabia;52;Poland;R. Lewandowski;82;Unassisted;Barcelona;La Liga (Spain);34
+Saturday;26/11/2022;Game 23;Group D;France 2-1 Denmark;53;France;K. Mbappé;61;Assistance;PSG;Ligue 1 (France);23
+Saturday;26/11/2022;Game 23;Group D;France 2-1 Denmark;54;Denmark;A. Christensen;68;Assistance;Barcelona;La Liga (Spain);26
+Saturday;26/11/2022;Game 23;Group D;France 2-1 Denmark;55;France;K. Mbappé;86;Assistance;PSG;Ligue 1 (France);23
+Saturday;26/11/2022;Game 24;Group C;Argentina 2-0 Mexico;56;Argentina;L. Messi;64;Assistance;PSG;Ligue 1 (France);35
+Saturday;26/11/2022;Game 24;Group C;Argentina 2-0 Mexico;57;Mexico;E. Fernández;87;Assistance;Benfica;Liga Portugal (Portugal);21
+Sunday;27/11/2022;Game 25;Group E;Japan 0-1 Costa Rica;58;Costa Rica;K. Fuller;81;Assistance;Herediano;Primera Division (CR);28
+Sunday;27/11/2022;Game 26;Group F;Belgium 0-2 Morocco;59;Morocco;R. Saiss;73;Assistance;Besiktas;Super Lig (Turkey);32
+Sunday;27/11/2022;Game 26;Group F;Belgium 0-2 Morocco;60;Morocco;Z. Aboukhlal;92;Assistance;Toulouse;Ligue 1 (France);22
+Sunday;27/11/2022;Game 27;Group F;Croatia 4-1 Canada;61;Canada;A. Davies;2;Assistance;Bayern Munich;Bundesliga (Germany);22
+Sunday;27/11/2022;Game 27;Group F;Croatia 4-1 Canada;62;Croatia;A. Kramarić;36;Assistance;Hoffenheim;Bundesliga (Germany);31
+Sunday;27/11/2022;Game 27;Group F;Croatia 4-1 Canada;63;Croatia;M. Livaja;44;Assistance;Hajduk Split;HNL (Croatia);29
+Sunday;27/11/2022;Game 27;Group F;Croatia 4-1 Canada;64;Croatia;A. Kramarić;70;Assistance;Hoffenheim;Bundesliga (Germany);31
+Sunday;27/11/2022;Game 27;Group F;Croatia 4-1 Canada;65;Croatia;L. Majer;94;Assistance;Rennes;Ligue 1 (France);24
+Sunday;27/11/2022;Game 28;Group E;Spain 1-1 Germany;66;Spain;A. Morata;62;Assistance;Atl. Madrid;La Liga (Spain);30
+Sunday;27/11/2022;Game 28;Group E;Spain 1-1 Germany;67;Germany;N. Fuellkrug;83;Assistance;Werder Bremen;Bundesliga (Germany);29
+Monday;28/11/2022;Game 29;Group G;Cameroon 3-3 Serbia;68;Cameroon;J. Castelletto;29;Assistance;Nantes;Ligue 1 (France);27
+Monday;28/11/2022;Game 29;Group G;Cameroon 3-3 Serbia;69;Serbia;S. Pavlovic;45;Assistance;Salzburg;Bundesliga (Austria);21
+Monday;28/11/2022;Game 29;Group G;Cameroon 3-3 Serbia;70;Serbia;S. Milinković-Savić;45;Assistance;Lazio;Serie A (Italy);27
+Monday;28/11/2022;Game 29;Group G;Cameroon 3-3 Serbia;71;Serbia;A. Mitrović;53;Assistance;Fulham;Premier League (England);28
+Monday;28/11/2022;Game 29;Group G;Cameroon 3-3 Serbia;72;Cameroon;V. Aboubakar;63;Assistance;Al-Nassr;Saudi Professional League (SA);30
+Monday;28/11/2022;Game 29;Group G;Cameroon 3-3 Serbia;73;Cameroon;E. Choupo-Moting;66;Assistance;Bayern Munich;Bundesliga (Germany);33
+Monday;28/11/2022;Game 30;Group H;South Korea 2-3 Ghana;74;Ghana;M. Salisu;24;Unassisted;Southampton;Premier League (England);23
+Monday;28/11/2022;Game 30;Group H;South Korea 2-3 Ghana;75;Ghana;M. Kudus;34;Assistance;Ajax;Eredivisie (Netherlands);22
+Monday;28/11/2022;Game 30;Group H;South Korea 2-3 Ghana;76;Korea;Cho Gue-Sung;58;Assistance;Jeonbuk;K League 1 (SK);24
+Monday;28/11/2022;Game 30;Group H;South Korea 2-3 Ghana;77;Korea;Cho Gue-Sung;61;Assistance;Jeonbuk;K League 1 (SK);24
+Monday;28/11/2022;Game 30;Group H;South Korea 2-3 Ghana;78;Ghana;M. Kudus;68;Assistance;Ajax;Eredivisie (Netherlands);22
+Monday;28/11/2022;Game 31;Group G;Brazil 1-0 Switzerland;79;Brazil;Casemiro;83;Assistance;Manchester Utd;Premier League (England);30
+Monday;28/11/2022;Game 32;Group H;Portugal 2-0 Uruguay;80;Portugal;B. Fernandes;54;Assistance;Manchester Utd;Premier League (England);28
+Monday;28/11/2022;Game 32;Group H;Portugal 2-0 Uruguay;81;Portugal;B. Fernandes;93;Penalty kick;Manchester Utd;Premier League (England);28
+Tuesday;29/11/2022;Game 33;Group A;Netherlands 2-0 Qatar;82;Qatar;C. Gakpo;26;Assistance;PSV;Eredivisie (Netherlands);23
+Tuesday;29/11/2022;Game 33;Group A;Netherlands 2-0 Qatar;83;Netherlands;F. de Jong;49;Unassisted;Barcelona;La Liga (Spain);25
+Tuesday;29/11/2022;Game 34;Group A;Ecuador 1-2 Senegal;84;Senegal;I. Sarr;44;Penalty kick;Watford;Championship (England);24
+Tuesday;29/11/2022;Game 34;Group A;Ecuador 1-2 Senegal;85;Ecuador;M. Caicedo;67;Assistance;Brighton;Premier League (England);21
+Tuesday;29/11/2022;Game 34;Group A;Ecuador 1-2 Senegal;86;Senegal;K. Koulibaly;70;Unassisted;Chelsea;Premier League (England);31
+Tuesday;29/11/2022;Game 35;Group B;Wales 0-3 England;87;England;M. Rashford;50;Unassisted;Manchester Utd;Premier League (England);25
+Tuesday;29/11/2022;Game 35;Group B;Wales 0-3 England;88;England;P. Foden;51;Assistance;Manchester City;Premier League (England);22
+Tuesday;29/11/2022;Game 35;Group B;Wales 0-3 England;89;England;M. Rashford;68;Assistance;Manchester Utd;Premier League (England);25
+Tuesday;29/11/2022;Game 36;Group B;Iran 0-1 USA;90;USA;C. Pulisic;38;Assistance;Chelsea;Premier League (England);24
+Wednesday;30/11/2022;Game 37;Group D;Tunisia 1-0 France;91;Tunisia;W. Khazri;58;Assistance;Montpellier;Ligue 1 (France);31
+Wednesday;30/11/2022;Game 38;Group D;Australia 1-0 Denmark;92;Australia; M. Leckie;60;Assistance;Melbourne City;A-League (Australia);31
+Wednesday;30/11/2022;Game 39;Group C;Poland 0-2 Argentina;93;Argentina;A. Mac Allister;46;Assistance;Brighton;Premier League (England);23
+Wednesday;30/11/2022;Game 39;Group C;Poland 0-2 Argentina;94;Argentina;J. Alvarez;67;Assistance;Manchester City;Premier League (England);22
+Wednesday;30/11/2022;Game 40;Group C;Saudi Arabia 1-2 Mexico;95;Mexico;H. Martin;47;Assistance;Club America;Liga MX (Mexico);30
+Wednesday;30/11/2022;Game 40;Group C;Saudi Arabia 1-2 Mexico;96;Mexico;L. Chavez;52;Unassisted;Pachuca;Liga MX (Mexico);26
+Wednesday;30/11/2022;Game 40;Group C;Saudi Arabia 1-2 Mexico;97;Saudi Arabia;S. Aldawsari;95;Assistance;Al-Hilal;Saudi Professional League (SA);31
+Thursday;01/12/2022;Game 41;Group F;Croatia 0-0 Belgium;NA;NA;NA;NA;NA;NA;NA;NA
+Thursday;01/12/2022;Game 42;Group F;Canada 1-2 Morocco;98;Morocco;H. Ziyech;4;Unassisted;Chelsea;Premier League (England);29
+Thursday;01/12/2022;Game 42;Group F;Canada 1-2 Morocco;99;Morocco;Y. En-Nesyri;23;Assistance;Sevilla;La Liga (Spain);25
+Thursday;01/12/2022;Game 42;Group F;Canada 1-2 Morocco;100;Canada;N. Aguerd;39;Own goal;West Ham;Premier League (England);26
+Thursday;01/12/2022;Game 43;Group E;Japan 2-1 Spain;101;Spain;A. Morata;11;Assistance;Atl. Madrid;La Liga (Spain);30
+Thursday;01/12/2022;Game 43;Group E;Japan 2-1 Spain;102;Japan;R. Doan;48;Assistance;Freiburg;Bundesliga (Germany);24
+Thursday;01/12/2022;Game 43;Group E;Japan 2-1 Spain;103;Japan;A. Tanaka;51;Assistance;Dusseldorf;Bundesliga (Germany);24
+Thursday;01/12/2022;Game 44;Group E;Costa Rica 2-4 Germany;104;Germany;S. Gnabry;10;Assistance;Bayern Munich;Bundesliga (Germany);27
+Thursday;01/12/2022;Game 44;Group E;Costa Rica 2-4 Germany;105;Costa Rica;Y. Tejeda;58;Unassisted;Herediano;Primera Division (CR);30
+Thursday;01/12/2022;Game 44;Group E;Costa Rica 2-4 Germany;106;Costa Rica;J. Vargas;70;Unassisted;Millonarios;Primera A (Colombia);27
+Thursday;01/12/2022;Game 44;Group E;Costa Rica 2-4 Germany;107;Germany;K. Havertz;73;Assistance;Chelsea;Premier League (England);23
+Thursday;01/12/2022;Game 44;Group E;Costa Rica 2-4 Germany;108;Germany;K. Havertz;85;Assistance;Chelsea;Premier League (England);23
+Thursday;01/12/2022;Game 44;Group E;Costa Rica 2-4 Germany;109;Germany;N. Fuellkrug;89;Assistance;Werder Bremen;Bundesliga (Germany);29
+Friday;02/12/2022;Game 45;Group H;South Korea 2-1 Portugal;110;Portugal;R. Horta;5;Assistance;Braga;Liga Portugal (Portugal);28
+Friday;02/12/2022;Game 45;Group H;South Korea 2-1 Portugal;111;South Korea;Kim Young-gwon;27;Assistance;Ulsan Hyundai;K League 1 (SK);32
+Friday;02/12/2022;Game 45;Group H;South Korea 2-1 Portugal;112;South Korea;Hwang Hee-chan;90;Assistance;Wolves;Premier League (England);26
+Friday;02/12/2022;Game 46;Group H;Ghana 2-0 Uruguay;113;Uruguay;de Arrascaeta;26;Unassisted;Flamengo;Serie A (Brazil);28
+Friday;02/12/2022;Game 46;Group H;Ghana 2-0 Uruguay;114;Uruguay;de Arrascaeta;32;Assistance;Flamengo;Serie A (Brazil);28
+Friday;02/12/2022;Game 47;Group G;Cameroon 1-0 Brazil;115;Cameroon;V. Aboubakar;92;Assistance;Al-Nassr;Saudi Professional League (SA);30
+Friday;02/12/2022;Game 48;Group G;Serbia 2-3 Switzerland;116;Switzerland;X. Shaqiri;20;Assistance;Chicago Fire;MLS (USA);31
+Friday;02/12/2022;Game 48;Group G;Serbia 2-3 Switzerland;117;Serbia;A. Mitrović;26;Assistance;Fulham;Premier League (England);28
+Friday;02/12/2022;Game 48;Group G;Serbia 2-3 Switzerland;118;Serbia;D. Vlahović;35;Unassisted;Juventus;Serie A (Italy);22
+Friday;02/12/2022;Game 48;Group G;Serbia 2-3 Switzerland;119;Switzerland;B. Embolo;44;Assistance;Monaco;Ligue 1 (France);25
+Friday;02/12/2022;Game 48;Group G;Serbia 2-3 Switzerland;120;Switzerland;R. Freuler;48;Assistance;Nottingham;Premier League (England);30
+Saturday;03/12/2022;Game 49;1/8 finals;Netherlands 3-1 USA;121;Netherlands;M. Depay;10;Assistance;Barcelona;La Liga (Spain);28
+Saturday;03/12/2022;Game 49;1/8 finals;Netherlands 3-1 USA;122;Netherlands;D. Blind;45;Assistance;Ajax;Eredivisie (Netherlands);32
+Saturday;03/12/2022;Game 49;1/8 finals;Netherlands 3-1 USA;123;USA;H. Wright;76;Assistance;Antalyaspor;Super Lig (Turkey);24
+Saturday;03/12/2022;Game 49;1/8 finals;Netherlands 3-1 USA;124;Netherlands;D. Dumfries;81;Assistance;Inter;Serie A (Italy);26
+Saturday;03/12/2022;Game 50;1/8 finals;Argentina 2-1 Australia;125;Argentina;L. Messi;35;Assistance;PSG;Ligue 1 (France);35
+Saturday;03/12/2022;Game 50;1/8 finals;Argentina 2-1 Australia;126;Argentina;J. Alvarez;57;Unassisted;Manchester City;Premier League (England);22
+Saturday;03/12/2022;Game 50;1/8 finals;Argentina 2-1 Australia;127;Australia;E. Fernandez;77;Own goal;Benfica;Liga Portugal (Portugal);21
+Sunday;04/12/2022;Game 51;1/8 finals;France 3-1 Poland;128;France;O. Giroud;44;Assistance;AC Milan;Serie A (Italy);36
+Sunday;04/12/2022;Game 51;1/8 finals;France 3-1 Poland;129;France;K. Mbappé;74;Assistance;PSG;Ligue 1 (France);23
+Sunday;04/12/2022;Game 51;1/8 finals;France 3-1 Poland;130;France;K. Mbappé;91;Assistance;PSG;Ligue 1 (France);23
+Sunday;04/12/2022;Game 51;1/8 finals;France 3-1 Poland;131;Polonia;R. Lewandowski;99;Penalty kick;Barcelona;La Liga (Spain);34
+Sunday;04/12/2022;Game 52;1/8 finals;England 3-0 Senegal;132;England;J. Henderson;39;Assistance;Liverpool;Premier League (England);32
+Sunday;04/12/2022;Game 52;1/8 finals;England 3-0 Senegal;133;England;H. Kane;48;Assistance;Tottenham;Premier League (England);29
+Sunday;04/12/2022;Game 52;1/8 finals;England 3-0 Senegal;134;England;B. Saka;57;Assistance;Arsenal;Premier League (England);21
+Monday;05/12/2022;Game 53;1/8 finals;Japan 1(1)-1(3) Croatia;135;Japan; D. Maeda;43;Assistance;Celtic;Premiership (Scotland);25
+Monday;05/12/2022;Game 53;1/8 finals;Japan 1(1)-1(3) Croatia;136;Croatia;I. Perisic;55;Assistance;Tottenham;Premier League (England);33
+Monday;05/12/2022;Game 53;1/8 finals;Japan 1(1)-1(3) Croatia;137;Croatia;N. Vlasic;NA;Penalty shootout;Torino;Serie A (Italy);25
+Monday;05/12/2022;Game 53;1/8 finals;Japan 1(1)-1(3) Croatia;138;Croatia;M. Brozovic;NA;Penalty shootout;Inter;Serie A (Italy);30
+Monday;05/12/2022;Game 53;1/8 finals;Japan 1(1)-1(3) Croatia;139;Japan;T. Asano;NA;Penalty shootout;Bochum;Bundesliga (Germany);28
+Monday;05/12/2022;Game 53;1/8 finals;Japan 1(1)-1(3) Croatia;140;Croatia;M. Pasalic;NA;Penalty shootout;Atalanta;Serie A (Italy);27
+Monday;05/12/2022;Game 54;1/8 finals;Brazil 4-1 South Korea;141;Brazil;Vinicius Junior;7;Assistance;Real Madrid;La Liga (Spain);22
+Monday;05/12/2022;Game 54;1/8 finals;Brazil 4-1 South Korea;142;Brazil;Neymar;13;Penalty kick;PSG;Ligue 1 (France);30
+Monday;05/12/2022;Game 54;1/8 finals;Brazil 4-1 South Korea;143;Brazil;Richarlison;29;Assistance;Tottenham;Premier League (England);25
+Monday;05/12/2022;Game 54;1/8 finals;Brazil 4-1 South Korea;144;Brazil;Lucas Paqueta;36;Assistance;West Ham;Premier League (England);25
+Monday;05/12/2022;Game 54;1/8 finals;Brazil 4-1 South Korea;145;South Korea;Paik Seung-Ho;76;Unassisted;Jeonbuk;K League 1 (SK);25
+Tuesday;06/12/2022;Game 55;1/8 finals;Morocco 0(3)-0(0) Spain;146;Morocco;A. Sabiri;NA;Penalty shootout;Sampdoria;Serie A (Italy);26
+Tuesday;06/12/2022;Game 55;1/8 finals;Morocco 0(3)-0(0) Spain;147;Morocco;H. Ziyech;NA;Penalty shootout;Chelsea;Premier League (England);29
+Tuesday;06/12/2022;Game 55;1/8 finals;Morocco 0(3)-0(0) Spain;148;Morocco;A. Hakimi;NA;Penalty shootout;PSG;Ligue 1 (France);24
+Tuesday;06/12/2022;Game 56;1/8 finals;Portugal 6-1 Switzerland;149;Portugal;G. Ramos;17;Assistance;Benfica;Liga Portugal (Portugal);21
+Tuesday;06/12/2022;Game 56;1/8 finals;Portugal 6-1 Switzerland;150;Portugal;Pepe;33;Assistance;FC Porto;Liga Portugal (Portugal);39
+Tuesday;06/12/2022;Game 56;1/8 finals;Portugal 6-1 Switzerland;151;Portugal;G. Ramos;51;Unassisted;Benfica;Liga Portugal (Portugal);21
+Tuesday;06/12/2022;Game 56;1/8 finals;Portugal 6-1 Switzerland;152;Portugal;R. Guerreiro;55;Assistance;B. Dortmund;Bundesliga (Germany);28
+Tuesday;06/12/2022;Game 56;1/8 finals;Portugal 6-1 Switzerland;153;Switzerland;M. Akanji;58;Unassisted;Manchester City;Premier League (England);27
+Tuesday;06/12/2022;Game 56;1/8 finals;Portugal 6-1 Switzerland;154;Portugal;G. Ramos;67;Assistance;Benfica;Liga Portugal (Portugal);21
+Tuesday;06/12/2022;Game 56;1/8 finals;Portugal 6-1 Switzerland;155;Portugal;R. Leão;92;Assistance;AC Milan;Serie A (Italy);23
+Friday;09/12/2022;Game 57;Quarter-finals;Croatia 1(4)-1(2) Brazil;156;Brazil;Neymar;105;Assistance;PSG;Ligue 1 (France);30
+Friday;09/12/2022;Game 57;Quarter-finals;Croatia 1(4)-1(2) Brazil;157;Croatia;B. Petkovik;117;Assistance;Dinamo Zagreb;HNL (Croatia);28
+Friday;09/12/2022;Game 57;Quarter-finals;Croatia 1(4)-1(2) Brazil;158;Croatia;N. Vlasic;NA;Penalty shootout;Torino;Serie A (Italy);25
+Friday;09/12/2022;Game 57;Quarter-finals;Croatia 1(4)-1(2) Brazil;159;Croatia;L. Majer;NA;Penalty shootout;Rennes;Ligue 1 (France);24
+Friday;09/12/2022;Game 57;Quarter-finals;Croatia 1(4)-1(2) Brazil;160;Brazil;Casemiro;NA;Penalty shootout;Manchester Utd;Premier League (England);30
+Friday;09/12/2022;Game 57;Quarter-finals;Croatia 1(4)-1(2) Brazil;161;Croatia;L. Modric;NA;Penalty shootout;Real Madrid;La Liga (Spain);37
+Friday;09/12/2022;Game 57;Quarter-finals;Croatia 1(4)-1(2) Brazil;162;Brazil;Pedro;NA;Penalty shootout;Flamengo;Serie A (Brazil);25
+Friday;09/12/2022;Game 57;Quarter-finals;Croatia 1(4)-1(2) Brazil;163;Croatia;L. Orsic;NA;Penalty shootout;Dinamo Zagreb;HNL (Croatia);29
+Friday;09/12/2022;Game 58;Quarter-finals;Netherlands 2(3)-2(4) Argentina;164;Argentina;N. Molina;35;Assistance;Atl. Madrid;La Liga (Spain);24
+Friday;09/12/2022;Game 58;Quarter-finals;Netherlands 2(3)-2(4) Argentina;165;Argentina;L. Messi;73;Penalty kick;PSG;Ligue 1 (France);35
+Friday;09/12/2022;Game 58;Quarter-finals;Netherlands 2(3)-2(4) Argentina;166;Netherlands;W. Weghorst;83;Assistance;Besiktas;Super Lig (Turkey);30
+Friday;09/12/2022;Game 58;Quarter-finals;Netherlands 2(3)-2(4) Argentina;167;Netherlands; W. Weghorst;101;Assistance;Besiktas;Super Lig (Turkey);30
+Friday;09/12/2022;Game 58;Quarter-finals;Netherlands 2(3)-2(4) Argentina;168;Argentina;L. Messi;NA;Penalty shootout;PSG;Ligue 1 (France);35
+Friday;09/12/2022;Game 58;Quarter-finals;Netherlands 2(3)-2(4) Argentina;169;Argentina;L. Paredes;NA;Penalty shootout;Juventus;Serie A (Italy);28
+Friday;09/12/2022;Game 58;Quarter-finals;Netherlands 2(3)-2(4) Argentina;170;Netherlands;T. Koopmeiners;NA;Penalty shootout;Atalanta;Serie A (Italy);24
+Friday;09/12/2022;Game 58;Quarter-finals;Netherlands 2(3)-2(4) Argentina;171;Argentina;G. Montiel;NA;Penalty shootout;Sevilla;La Liga (Spain);25
+Friday;09/12/2022;Game 58;Quarter-finals;Netherlands 2(3)-2(4) Argentina;172;Netherlands;W. Weghorst;NA;Penalty shootout;Besiktas;Super Lig (Turkey);30
+Friday;09/12/2022;Game 58;Quarter-finals;Netherlands 2(3)-2(4) Argentina;173;Netherlands;L. de Jong;NA;Penalty shootout;PSV;Eredivisie (Netherlands);32
+Friday;09/12/2022;Game 58;Quarter-finals;Netherlands 2(3)-2(4) Argentina;174;Argentina;La. Martínez;NA;Penalty shootout;Inter;Serie A (Italy);25
+Saturday;10/12/2022;Game 59;Quarter-finals;Morocco 1-0 Portugal;175;Morocco;Y. En-Nesyri;42;Assistance;Sevilla;La Liga (Spain);25
+Saturday;10/12/2022;Game 60;Quarter-finals;France 2-1 England;176;France;A. Tchouameni;17;Assistance;Real Madrid;La Liga (Spain);22
+Saturday;10/12/2022;Game 60;Quarter-finals;France 2-1 England;177;England;H. Kane;54;Penalty kick;Tottenham;Premier League (England);29
+Saturday;10/12/2022;Game 60;Quarter-finals;France 2-1 England;178;France;O. Giroud;78;Assistance;AC Milan;Serie A (Italy);36
+Tuesday;13/12/2022;Game 61;Semi-finals;Croatia 0-3 Argentina;179;Argentina;L. Messi;34;Penalty kick;PSG;Ligue 1 (France);35
+Tuesday;13/12/2022;Game 61;Semi-finals;Croatia 0-3 Argentina;180;Argentina;J. Alvarez;39;Unassisted;Manchester City;Premier League (England);22
+Tuesday;13/12/2022;Game 61;Semi-finals;Croatia 0-3 Argentina;181;Argentina;J. Alvarez;69;Assistance;Manchester City;Premier League (England);22
+Wednesday;14/12/2022;Game 62;Semi-finals;Morocco 0-2 France;182;France;T. Hernandez;5;Unassisted;AC Milan;Serie A (Italy);25
+Wednesday;14/12/2022;Game 62;Semi-finals;Morocco 0-2 France;183;France;R. Kolo Muani;78;Assistance;Eintracht Frankfurt;Bundesliga (Germany);24
+Saturday;17/12/2022;Game 63;Third-place;Croatia 2-1 Morocco;184;Croatia;J. Gvardiol;7;Assistance;RB Leipzig;Bundesliga (Germany);20
+Saturday;17/12/2022;Game 63;Third-place;Croatia 2-1 Morocco;185;Morocco;A. Dari;9;Unassisted;Brest;Ligue 1 (France);23
+Saturday;17/12/2022;Game 63;Third-place;Croatia 2-1 Morocco;186;Croatia;L. Orsic;42;Assistance;Dinamo Zagreb;HNL (Croatia);29
+Sunday;18/12/2022;Game 64;Final;Argentina 3(4)-3(2) France;187;Argentina;L. Messi;23;Penalty kick;PSG;Ligue 1 (France);35
+Sunday;18/12/2022;Game 64;Final;Argentina 3(4)-3(2) France;188;Argentina;A. Di Maria;36;Assistance;Juventus;Serie A (Italy);34
+Sunday;18/12/2022;Game 64;Final;Argentina 3(4)-3(2) France;189;France;K. Mbappé;80;Penalty kick;PSG;Ligue 1 (France);23
+Sunday;18/12/2022;Game 64;Final;Argentina 3(4)-3(2) France;190;France;K. Mbappé;81;Assistance;PSG;Ligue 1 (France);23
+Sunday;18/12/2022;Game 64;Final;Argentina 3(4)-3(2) France;191;Argentina;L. Messi;108;Unassisted;PSG;Ligue 1 (France);35
+Sunday;18/12/2022;Game 64;Final;Argentina 3(4)-3(2) France;192;France;K. Mbappé;118;Penalty kick;PSG;Ligue 1 (France);23
+Sunday;18/12/2022;Game 64;Final;Argentina 3(4)-3(2) France;193;France;K. Mbappé;NA;Penalty shootout;PSG;Ligue 1 (France);23
+Sunday;18/12/2022;Game 64;Final;Argentina 3(4)-3(2) France;194;Argentina;L. Messi;NA;Penalty shootout;PSG;Ligue 1 (France);35
+Sunday;18/12/2022;Game 64;Final;Argentina 3(4)-3(2) France;195;Argentina;P. Dybala;NA;Penalty shootout;AS Roma;Serie A (Italy);29
+Sunday;18/12/2022;Game 64;Final;Argentina 3(4)-3(2) France;196;Argentina;L. Paredes;NA;Penalty shootout;Juventus;Serie A (Italy);28
+Sunday;18/12/2022;Game 64;Final;Argentina 3(4)-3(2) France;197;France;R. Kolo Muani;NA;Penalty shootout;Eintracht Frankfurt;Bundesliga (Germany);24
+Sunday;18/12/2022;Game 64;Final;Argentina 3(4)-3(2) France;198;Argentina;G. Montiel;NA;Penalty shootout;Sevilla;La Liga (Spain);25
