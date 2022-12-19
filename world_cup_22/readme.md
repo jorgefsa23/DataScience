@@ -9,6 +9,6 @@ The file analyzed was <kbd>world_cup_goals.csv</kbd>. It contains the goals on t
 
 FILE(S)                              | Description
 -----------------------------------  | ------------------------
-<kbd>world_cup_goals</kbd>           | **R script** file (.Rmd)
+<kbd>world_cup_goals</kbd>           | **R script** file (.R)
 
 I will continue developing this project with graphs and R Markdown report
