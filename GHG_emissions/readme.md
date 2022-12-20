@@ -10,5 +10,6 @@ Washington, DC: World Resources Institute.
 
 Resulting FILES                      | Description
 -----------------------------------  | ------------------------
-<kbd>hist_emiss_RMarckdown.Rmd</kbd>  | **R Marckdown** file (.Rmd)
-<kbd>hist_emiss_RMarckdown.html</kbd> | Output of R Marckdown in HTML
+<kbd>historical_emissions.csv</kbd>  | Database of study
+<kbd>hist_emiss_RMarckdown.R</kbd>  | **R script** file (.R)
+<kbd>hist_emiss_RMarckdown.html</kbd> | Output of HTML relatory generated with R Marckdown
