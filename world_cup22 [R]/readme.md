@@ -1,4 +1,4 @@
-### ***World cup of Qatar 2022 goals*** database study in R language.
+### ***World cup of Qatar 2022 goals*** database in R language.
 
 + IDE: RStudio.
 
