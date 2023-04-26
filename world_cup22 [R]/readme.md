@@ -2,9 +2,9 @@
 
 + IDE: RStudio.
 
-The database was constructed with data available into [flashscore.com](https://flashscore.com) behind the games on **WC Qatar 2022**.
+I constructed the database with data available in [flashscore.com](https://flashscore.com) behind the games on **WC Qatar 2022**.
 
-The file analyzed was <kbd>world_cup_goals.csv</kbd>. It contains the goals on the 64 games of the tournament.
+The resulting file <kbd>world_cup_goals.csv</kbd> contains the goals on the 64 games of the tournament.
 
 
 FILE(S)                              | Description
