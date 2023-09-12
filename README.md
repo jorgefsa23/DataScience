@@ -1,7 +1,7 @@
 # DataScience
 Repository of Data Science projects in Python and R language
 
-The projects where developed on the next order:
+The projects were developed on the next order:
 
 Number  | Folder              | About                                                        | Language / IDE
 ------- | ------------------- | ---------------------                                        | ---------------------
